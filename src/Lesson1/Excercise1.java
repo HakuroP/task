@@ -10,5 +10,6 @@ public class Excercise1 {
         int m = s % 3600 / 60;
         int sec = s % 3600 % 60;
         System.out.println(h + "h " + m + "m " + sec + "sec");
+        //git
     }
 }
